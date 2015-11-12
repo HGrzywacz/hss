@@ -1,0 +1,2 @@
+# hss
+Haskell Sudoku Saver
